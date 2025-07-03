@@ -1,0 +1,45 @@
+2025-07-03 08:16:19,566 - __main__ - INFO - Checking dependencies...
+2025-07-03 08:16:20,270 - __main__ - INFO - All dependencies available
+2025-07-03 08:16:20,270 - __main__ - INFO - Initializing Udemy Course Enroller
+2025-07-03 08:16:20,270 - __main__ - INFO - Starting Udemy Course Enroller application
+2025-07-03 08:16:20,270 - __main__ - INFO - Showing login window
+2025-07-03 08:16:20,889 - login_window - INFO - Showing login window
+2025-07-03 08:16:29,530 - login_window - INFO - Attempting browser cookie login
+2025-07-03 08:16:29,532 - udemy_enroller - INFO - Loading cookies from Chrome browser...
+2025-07-03 08:16:29,534 - udemy_enroller - ERROR - Error loading cookies from Chrome: Failed to find cookies for Chrome browser
+2025-07-03 08:16:29,535 - login_window - ERROR - Cookie login failed: Failed to load cookies from Chrome. Make sure you're logged into Udemy in Chrome.
+2025-07-03 08:16:40,472 - __main__ - INFO - Authentication failed or user cancelled login
+2025-07-03 08:16:51,747 - __main__ - INFO - User cancelled login - exiting application
+2025-07-03 08:16:51,748 - __main__ - INFO - Cleaning up application resources
+2025-07-03 08:16:51,748 - __main__ - INFO - Application cleanup complete
+2025-07-03 08:16:51,748 - __main__ - INFO - Application shutdown complete
+2025-07-03 08:25:37,063 - __main__ - INFO - Checking dependencies...
+2025-07-03 08:25:37,785 - __main__ - INFO - All dependencies available
+2025-07-03 08:25:37,785 - __main__ - INFO - Initializing Udemy Course Enroller
+2025-07-03 08:25:37,785 - __main__ - INFO - Starting Udemy Course Enroller application
+2025-07-03 08:25:37,785 - __main__ - INFO - Showing login window
+2025-07-03 08:25:38,585 - login_window - INFO - Showing login window
+2025-07-03 08:25:46,606 - login_window - INFO - Attempting browser cookie login from edge
+2025-07-03 08:25:46,608 - browser_manager - INFO - Loading cookies from Microsoft Edge
+2025-07-03 08:25:46,611 - udemy_enroller - ERROR - Failed to load cookies from edge: No Udemy cookies found in Edge
+2025-07-03 08:25:46,611 - login_window - ERROR - Cookie login failed: Failed to load cookies from Microsoft Edge. Make sure you're logged into Udemy in Microsoft Edge.
+2025-07-03 08:25:56,479 - __main__ - INFO - Authentication failed or user cancelled login
+2025-07-03 08:25:57,833 - __main__ - INFO - User cancelled login - exiting application
+2025-07-03 08:25:57,833 - __main__ - INFO - Cleaning up application resources
+2025-07-03 08:25:57,834 - __main__ - INFO - Application cleanup complete
+2025-07-03 08:25:57,834 - __main__ - INFO - Application shutdown complete
+2025-07-03 08:41:00,007 - __main__ - INFO - Checking dependencies...
+2025-07-03 08:41:01,257 - __main__ - INFO - All dependencies available
+2025-07-03 08:41:01,258 - __main__ - INFO - Initializing Udemy Course Enroller
+2025-07-03 08:41:01,258 - __main__ - INFO - Starting Udemy Course Enroller application
+2025-07-03 08:41:01,258 - __main__ - INFO - Showing login window
+2025-07-03 08:41:01,891 - login_window - INFO - Showing login window
+2025-07-03 08:41:05,682 - login_window - INFO - Attempting browser cookie login from brave
+2025-07-03 08:41:05,684 - browser_manager - INFO - Loading cookies from Brave Browser
+2025-07-03 08:41:09,827 - udemy_enroller - ERROR - Failed to load cookies from brave: Brave cookies error: This operation requires admin. Please run as admin.
+2025-07-03 08:41:09,828 - login_window - ERROR - Cookie login failed: Failed to load cookies from Brave Browser. Make sure you're logged into Udemy in Brave Browser.
+2025-07-03 08:41:18,252 - __main__ - INFO - Authentication failed or user cancelled login
+2025-07-03 08:41:19,592 - __main__ - INFO - User cancelled login - exiting application
+2025-07-03 08:41:19,592 - __main__ - INFO - Cleaning up application resources
+2025-07-03 08:41:19,594 - __main__ - INFO - Application cleanup complete
+2025-07-03 08:41:19,594 - __main__ - INFO - Application shutdown complete
